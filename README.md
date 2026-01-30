@@ -44,6 +44,8 @@ wander-quest/
 ├── backend/
 └── frontend/
 
+---
+
 ## ▶️ How to Run Locally
 
 ### Backend Setup
