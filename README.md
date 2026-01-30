@@ -43,7 +43,7 @@ This project showcases practical full-stack development skills, including authen
 wander-quest/
 ├── backend/
 └── frontend/
-
+```
 ---
 
 ## ▶️ How to Run Locally
@@ -53,7 +53,7 @@ wander-quest/
 cd backend
 npm install
 npm start
-
+```
 ### Frontend Setup
 ```bash
 cd frontend
